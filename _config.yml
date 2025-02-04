@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
+title: Elite Emporium
 description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "portfolio_2025" 
-baseurl: "/portfolio_2025"
+owner_name: Ahaan Vaidyanathan
+github_username: Ahaanv19
+github_repo: "EliteEmporium1" 
+baseurl: "/EliteEmporium1"
 future: true
 remote_theme: jekyll/minima
 minima:
