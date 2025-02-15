@@ -1,8 +1,8 @@
 ---
 layout: post 
 title: Course Descriptions
-description: An overview of Computer Science pathway at Del Norte High School
-author: John Mortensen, Vivian Ni, Bria Gilliam
+description: Your number one source for Pokemon Product! 
+author: Ahaan Vaidyanathan, Rudransh Guha, Aadhya Adsumuili 
 image: /images/mario_animation.png
 hide: true
 menu: nav/home.html
